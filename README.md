@@ -1,5 +1,5 @@
 # myfirstpaper
-A paper on my results on software carpentreology for the greater good.
+A publication on my results on Software Carpentreology for the Greater Good.
 
 ### Notes
 The description is important as well as a good name for the repository (project1, project2 might not be a good idea). You want to know right away which project it is. 
